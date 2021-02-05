@@ -15,7 +15,8 @@ The UI needs improvement, it is my first major venture into the realm of UI/UX d
 ### Search Screen
 
 
-### ARVIEW
+### ARView
+
 There are a few debug statements and user feedbacks that I need to change. I would like it to be more natural, and have a loading visual so there are not words across the screen
 
 
