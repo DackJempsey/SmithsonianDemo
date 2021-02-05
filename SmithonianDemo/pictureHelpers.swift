@@ -80,6 +80,7 @@ class pictureHelper{
         if query.contains(" ") {
             goodQuery = query.replacingOccurrences(of: " ", with: "+")
         }
+        // dont worry this is a digital ocean box, that is rarely up. 
         let queryURL = "http://134.122.2.78:5000/query/" + goodQuery
         let url = URL(string: queryURL)!
         return url
