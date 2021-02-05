@@ -13,8 +13,7 @@ The UI needs improvement, it is my first major venture into the realm of UI/UX d
 ## Screenshots
 
 ### Search Screen
-![Search Monet](https://github.com/DackJempsey/SmithsonianDemo/blob/master/SmithsonianDemoImages/IMG_4263.PNG)
-<img src="https://github.com/DackJempsey/SmithsonianDemo/blob/master/SmithsonianDemoImages/IMG_4263.PNG" height="100">
+<img src="https://github.com/DackJempsey/SmithsonianDemo/blob/master/SmithsonianDemoImages/IMG_4263.PNG" height="300">
 
 ### ARView
 
