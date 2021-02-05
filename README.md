@@ -18,6 +18,7 @@ The UI needs improvement, it is my first major venture into the realm of UI/UX d
 
 #### Monet image in the wild
 <img src="https://github.com/DackJempsey/SmithsonianDemo/blob/master/SmithsonianDemoImages/IMG_4260.PNG" height="300">
+
 #### Getting a little closer 
 <img src="https://github.com/DackJempsey/SmithsonianDemo/blob/master/SmithsonianDemoImages/IMG_4262.PNG" height="300">
 
