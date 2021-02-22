@@ -13,11 +13,19 @@ The UI needs improvement, it is my first major venture into the realm of UI/UX d
 ## Screenshots
 
 ### Search Screen
-
+#### Searching for "Monet"
+<img src="https://github.com/DackJempsey/SmithsonianDemo/blob/master/SmithsonianDemoImages/IMG_4263.PNG" height="300">
 
 ### ARView
 
 There are a few debug statements and user feedbacks that I need to change. I would like it to be more natural, and have a loading visual so there are not words across the screen
+
+#### Monet image in the wild
+<img src="https://github.com/DackJempsey/SmithsonianDemo/blob/master/SmithsonianDemoImages/IMG_4260.PNG" height="300">
+
+#### Getting a little closer 
+<img src="https://github.com/DackJempsey/SmithsonianDemo/blob/master/SmithsonianDemoImages/IMG_4262.PNG" height="300">
+
 
 
 
