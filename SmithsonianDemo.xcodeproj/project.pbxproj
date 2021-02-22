@@ -47,7 +47,7 @@
 		B568D4DD245F91160044FD9C = {
 			isa = PBXGroup;
 			children = (
-				B568D4E8245F91160044FD9C /* SmithonianDemo */,
+				B568D4E8245F91160044FD9C /* SmithsonianDemo */,
 				B568D4E7245F91160044FD9C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -60,7 +60,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B568D4E8245F91160044FD9C /* SmithonianDemo */ = {
+		B568D4E8245F91160044FD9C /* SmithsonianDemo */ = {
 			isa = PBXGroup;
 			children = (
 				B568D4E9245F91160044FD9C /* AppDelegate.swift */,
@@ -75,7 +75,7 @@
 				B568D50D2478D6730044FD9C /* pictureViewController.swift */,
 				B568D4FF245F9FAD0044FD9C /* pictureScene.scnassets */,
 			);
-			path = SmithonianDemo;
+			path = SmithsonianDemo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -113,7 +113,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B568D4E1245F91160044FD9C /* Build configuration list for PBXProject "SmithonianDemo" */;
+			buildConfigurationList = B568D4E1245F91160044FD9C /* Build configuration list for PBXProject "SmithsonianDemo" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -300,12 +300,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = DDMRRPWSB8;
-				INFOPLIST_FILE = SmithonianDemo/Info.plist;
+				INFOPLIST_FILE = SmithsonianDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = example.com.SmithonianDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = example.com.SmithsonianDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -318,12 +318,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = DDMRRPWSB8;
-				INFOPLIST_FILE = SmithonianDemo/Info.plist;
+				INFOPLIST_FILE = SmithsonianDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = example.com.SmithonianDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = example.com.SmithsonianDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -333,7 +333,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B568D4E1245F91160044FD9C /* Build configuration list for PBXProject "SmithonianDemo" */ = {
+		B568D4E1245F91160044FD9C /* Build configuration list for PBXProject "SmithsonianDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B568D4FA245F91170044FD9C /* Debug */,
