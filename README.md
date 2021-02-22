@@ -1,5 +1,5 @@
 # SmithsonianDemo
-This is my Smithsonian Visualization App. Using the Smithsonian API
+This is my Smithsonian Visualization App. Using the Smithsonian API. This is the public repo, while the development version is held in private. Messages welcome for collaboration or edits:).
 
 ## Usage
 As it stands now there is a backend server that handles the rest request from the app to Smithsonians API. This is just to add a level of obfsucation to the request so that I did not post creds. The only thing is there is an IP and port which is hard coded. 
